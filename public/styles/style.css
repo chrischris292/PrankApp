@@ -1,0 +1,48 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:100);
+@import url(http://fonts.googleapis.com/css?family=Quicksand:300);
+
+body{
+	background-image:url("../images/fuck.jpg");
+	height:100%;
+	width:100%;
+	margin:0px; 
+font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+input {
+    display: block;
+    margin : 5% auto;
+    background: url('../images/search.png') no-repeat 15px 15px #fcfcfc;
+    vertical-align:middle;
+    outline:none;
+    border: 0 none; 
+    font: bold 20px Arial,Helvetica,Sans-serif;
+    color: #6a6f75;
+    width:450px;
+    padding: 10px 20px 10px 50px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 200px;
+    text-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 5px 1px rgba(0, 0, 0, 0.7) inset;
+    -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 5px 1px rgba(0, 0, 0, 0.7) inset;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 5px 1px rgba(0, 0, 0, 0.7) inset;
+    -webkit-transition: all 0.7s ease 0s;
+    -moz-transition: all 0.7s ease 0s;
+    -o-transition: all 0.7s ease 0s;
+    transition: all 0.7s ease 0s;
+}
+ #title{
+    display: block;
+    margin : 10% 0% auto;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	font-size:50px;
+}
+#subTitle{
+	    display: block;
+	  text-align: center;
+	font-family: 'Quicksand', sans-serif;
+    margin : 0% auto;
+	font-size:20px;
+
+}
